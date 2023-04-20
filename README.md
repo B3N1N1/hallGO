@@ -1,2 +1,2 @@
 # hallGO
-beta 1
+beta 4
